@@ -1,0 +1,44 @@
+.u-shadow-s, .u-shadow-s\@hover:hover {
+  box-shadow: 0.2rem 0.2rem 0.4rem rgba(33, 33, 33, 0.2); }
+
+.u-shadow-m, .u-shadow-m\@hover:hover {
+  box-shadow: 0rem 0.4rem 1.5rem rgba(33, 33, 33, 0.25); }
+
+.u-shadow-l, .u-shadow-l\@hover:hover {
+  box-shadow: 0rem 0.4rem 2.5rem rgba(33, 33, 33, 0.25); }
+
+.u-borderRounded {
+  border-radius: 99rem; }
+
+.u-borderRadius-m {
+  border-radius: 2rem; }
+
+.u-background-blackish {
+  background-color: #212121; }
+
+.u-background-pinkish {
+  background-color: #f47f67; }
+
+.u-background-blueish {
+  background-color: #3182ed; }
+
+.u-background-greenish {
+  background-color: #28af60; }
+
+.u-background-grayish {
+  background-color: #5e5e5e; }
+
+.u-color-whitish, .u-color-whitish\@hover:hover {
+  color: white; }
+
+.u-color-whitishDim, .u-color-whitishDim\@hover:hover {
+  color: rgba(255, 255, 255, 0.6); }
+
+.u-color-blueish, .u-color-blueish\@hover:hover {
+  color: #3182ed; }
+
+.u-padding-s {
+  padding: 1rem; }
+
+.u-padding-m {
+  padding: 2rem; }
