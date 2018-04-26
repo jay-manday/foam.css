@@ -4,12 +4,14 @@ An Icon is a square with side-length of `1em`, it's an `inline-block`, and using
 
 ```html
 <div style="font-size:2em">
-  Some + - ⦿ 🔎 < fluffy
+  Some + - ⦿ ● 🔎 < × fluffy
   <span class="Icon Icon--plus u-background-pinkish"></span>
   <span class="Icon Icon--minus u-background-pinkish"></span>
   <span class="Icon Icon--circle u-background-pinkish"></span>
+  <span class="Icon Icon--dot u-background-pinkish"></span>
   <span class="Icon Icon--magnifier u-background-pinkish"></span>
   <span class="Icon Icon--arrowLeft u-background-pinkish"></span>
+  <span class="Icon Icon--cross u-background-pinkish"></span>
   around
 </div>
 ```
@@ -20,12 +22,14 @@ By using this class an Icon will be to centered vertically using `line-height: 1
 
 ```html
 <div style="font-size:2em">
-  Some + - ⦿ 🔎 < fluffy
+  Some + - ⦿ ● 🔎 < × fluffy
   <span class="Icon Icon--altLH Icon--plus u-background-pinkish"></span>
   <span class="Icon Icon--altLH Icon--minus u-background-pinkish"></span>
   <span class="Icon Icon--altLH Icon--circle u-background-pinkish"></span>
+  <span class="Icon Icon--altLH Icon--dot u-background-pinkish"></span>
   <span class="Icon Icon--altLH Icon--magnifier u-background-pinkish"></span>
   <span class="Icon Icon--altLH Icon--arrowLeft u-background-pinkish"></span>
+  <span class="Icon Icon--altLH Icon--cross u-background-pinkish"></span>
   around
 </div>
 ```
@@ -37,12 +41,14 @@ By using this class an Icon will be to centered vertically using `display: table
 
 ```html
 <div style="font-size:2em">
-  Some + - ⦿ 🔎 < fluffy
+  Some + - ⦿ ● 🔎 < × fluffy
   <span class="Icon Icon--altTC Icon--plus u-background-pinkish"></span>
   <span class="Icon Icon--altTC Icon--minus u-background-pinkish"></span>
   <span class="Icon Icon--altTC Icon--circle u-background-pinkish"></span>
+  <span class="Icon Icon--altTC Icon--dot u-background-pinkish"></span>
   <span class="Icon Icon--altTC Icon--magnifier u-background-pinkish"></span>
   <span class="Icon Icon--altTC Icon--arrowLeft u-background-pinkish"></span>
+  <span class="Icon Icon--altTC Icon--cross u-background-pinkish"></span>
   around
 </div>
 ```

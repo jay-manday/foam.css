@@ -1,3 +1,8 @@
+
+// Note: take a look at this articles, if `vertical-align` is not working as expected
+// http://infoheap.com/css-inline-block-baseline-alignment/
+// http://christopheraue.net/design/vertical-align
+
 .Icon {
   width: 1em;
   height: 1em;
@@ -28,3 +33,5 @@
 .Icon--circle:after { content: "⦿"}
 .Icon--magnifier:after { content: "🔎"}
 .Icon--arrowLeft:after { content: "<"}
+.Icon--cross:after { content: "×"}
+.Icon--dot:after { content: "●"}
