@@ -19,6 +19,10 @@ const pages =
     , title: "Icon"
     , content: pageLoader(() => import("./pages/icon.md"))
     }
+  , { path: "/group"
+    , title: "Group"
+    , content: pageLoader(() => import("./pages/group.md"))
+    }
   ]
 
 // See `DefaultTheme.js` for more contamination options:
