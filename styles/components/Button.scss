@@ -33,11 +33,11 @@
 
 
 .Button--withShadow:hover {
-  box-shadow: 0.0rem 0.4rem 2.5rem color(blackish, $alpha: 0.25);
+  box-shadow: 0rem 0.4rem 2.5rem color(blackish, $alpha: 0.25);
 }
 
 .Button--withShadow, .Button--withShadow:active {
-  box-shadow: 0.0rem 0.4rem 1.5rem color(blackish, $alpha: 0.25);
+  box-shadow: 0rem 0.4rem 1.5rem color(blackish, $alpha: 0.25);
 }
 
 
